@@ -1,0 +1,18 @@
+Notes
+- pitch is a direction of the idea
+- feed back was given from customers and this is the problem we want to solve
+- is then given to a team that then interprets how to solve it
+- don't make it so detailed because you're not gonna know what you actually need, but don't make it so vague (like a one-liner) that the end result is not what you wanted
+- customers that are really good at telling you what they don't like, but are not very good at proposing solutions
+- anyone can write the pitch, but generally the formalized pitch is made by people who plan the work
+- a pitch is an attempt at a solution
+- pitch will reference several customers and their solutions (because that's how customers express their frustrations) but it's up to the developers to take a step back to figure out what the overlying problem is
+- the people who write pitches don't always know the technical details as a result the pitch is not a hard rule
+pitch is usually just this is where we end up, but it's up to the developers to make the solution
+- pitch can give really good direction for 1-2 weeks, because then we'll see problems that we didn't know would occur
+- rabbit holes are features that look appealing but actually take a lot of time for a very little actual value or simply a minor feature
+- science project is a type of pitch that has lower chance of success but we can learn from it
+- tracer bullet is between science project and rabbit hole
+- tracers are kind of scaffolding projects (limited prototype) to even see how much resources that we need, dedicate like 2 days into tracer bullets
+
+A pitch is a general write up of the direction we want to go in regarding some kind of feature or solution. They often result from user feedback that notifies us of some sort of issue that the user are facing or finding inconvenient. From here we can write a pitch referencing these problems and then propose a very general solution or at the very least a rough end goal. The nature of a pitch is often left very general because at the end of the day we just can't know what exactly we're going to need or have to do to achieve our solution; however, we also cannot leave our ideas too vague, such as a one-liner, because that leaves a very good chance of ending up with a solution we may not even recognize. While writing a pitch and referencing the problems and complaints users have brought up, they will be phrased as what the users want to see implemeneted. This is just how they express their dissatisfaction. While customers are very good at pointing out what they dislike they are not very good at providing solutions because they are solving a very specific problem and passing over the main flaw. That's why when developers get these pitches they have to take a step back and figure out how thses issues are related and what overlying flaw needs to be solved. Since those who write the pitches also don't general have that deep of a technical background the developers also need to take some liberties with what is written since the writers not fully aware of technical constraints or what is really plausible. Some times pitches may not be feasible at all which requires us to analyze them carefully before committing to much time to them whether that be accepting as a flawed idea and seeing what we can learn from it as a science project or dedicating a few days to it to get a better understanding of what this might entail as a tracer.
